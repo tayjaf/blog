@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Password's And You
-date:   {{ 'now' | date: "%Y/%m/%d" }}
+date:   2023-01-27 17:16:00 -0500
 categories: articles
 ---
 
