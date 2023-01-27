@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Password's And You
-date:   2023-01-27 17:16:00 -0500
+date:   2023-01-27 00:00:00 -0500
 categories: articles
 ---
-
-![Dangerous](https://raw.githubusercontent.com/tayjaf/blog/_images/dangerous.png)
-
 In this article, I will discuss some basic tips and techniques for creating strong and easy-to-remember passwords. There are techniques such as using a password manager, but we won’t cover that today. While not everyone wants to use a password manager, choosing a password is mandatory.
+
+![Dangerous](https://raw.githubusercontent.com/tayjaf/blog/main/_images/dangerous.png)
 
 Passwords are the first line of defense against cyberattacks, and choosing a good password is an essential step in protecting your personal information and online identity. 
 
