@@ -14,7 +14,7 @@ Notice how most websites nowadays ask the user to require more complex passwords
 
 To check the entropy and guessability of a password, you can use a tool such as "How Secure Is My Password?" This website allows you to input a password and calculates its entropy or strength based on various factors, such as length, complexity, and the use of special characters. However, be careful not to input your actual password as this is a public website, but if you think your password might be guessable, it probably is! 
 
-[How Secure Is My Password? | Password Strength Checker](https://www.security.org/how-secure-is-my-password/)
+[How Secure Is My Password? Password Strength Checker](https://www.security.org/how-secure-is-my-password/)
 
 As mentioned earlier, an important consideration when choosing a password is the minimum requirements set by websites. These requirements usually include a combination of upper and lower case letters, special characters, numbers, and a minimum length of 8-12 characters. As technology advances, it is likely that we will see even more stringent requirements in the future.
 
