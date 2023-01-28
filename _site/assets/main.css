@@ -148,9 +148,7 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-#post {
 
-}
 
   /* standard */
 
@@ -197,6 +195,6 @@ ul.posts {
   margin-top: 2em;
 }
 
-  #related h2 {
-    margin-bottom: 1em;
-  }
+#related h2 {
+  margin-bottom: 1em;
+}
