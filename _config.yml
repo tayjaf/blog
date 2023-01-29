@@ -23,7 +23,7 @@ author: Tayyab Jafar
 email: tayyabjafar@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://www.tayjaf.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.tayjaf.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tay_jaf
 github_username:  tayjaf
 
