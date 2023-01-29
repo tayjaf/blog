@@ -34,4 +34,14 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 
-gem "github-pages", group: :jekyll_plugins
+gem "nokogiri", "~> 1.14"
+
+gem "open-uri", "~> 0.3.0"
+
+gem "ruby-readability", "~> 0.7.0"
+
+gem "digest", "~> 3.1"
+
+group :jekyll_plugins do
+  gem "jekyll-linkpreview", "~> 0.5.0"
+end
